@@ -1,4 +1,3 @@
 # stepik_auto_tests_course
 
-Repository for Stepik courses
-"Автоматизация тестирования с помощью Selenium и Python"
+Репозиторий домашних заданий к курсу "Автоматизация тестирования с помощью Selenium и Python" на stepik.org
